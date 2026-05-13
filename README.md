@@ -24,6 +24,29 @@ Automatically updated M3U playlists for Pluto TV with forced HD resolution and c
 | **🇸🇪 Sweden** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_se.m3u` |
 | **🇩🇰 Denmark** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_dk.m3u` |
 
+### 🆕 New Regions Added
+
+| Region / Type | Direct Raw M3U Link (Copy & Paste) |
+| :--- | :--- |
+| **🇦🇹 Austria** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_at.m3u` |
+| **🇦🇺 Australia** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_au.m3u` |
+| **🇧🇴 Bolivia** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_bo.m3u` |
+| **🇨🇭 Switzerland** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ch.m3u` |
+| **🇨🇴 Colombia** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_co.m3u` |
+| **🇨🇷 Costa Rica** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_cr.m3u` |
+| **🇩🇴 Dominican Republic** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_do.m3u` |
+| **🇪🇨 Ecuador** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ec.m3u` |
+| **🇫🇮 Finland** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_fi.m3u` |
+| **🇬🇹 Guatemala** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_gt.m3u` |
+| **🇭🇳 Honduras** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_hn.m3u` |
+| **🇳🇮 Nicaragua** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ni.m3u` |
+| **🇵🇦 Panama** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_pa.m3u` |
+| **🇵🇪 Peru** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_pe.m3u` |
+| **🇵🇾 Paraguay** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_py.m3u` |
+| **🇸🇻 El Salvador** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_sv.m3u` |
+| **🇺🇾 Uruguay** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_uy.m3u` |
+| **🇻🇪 Venezuela** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ve.m3u` |
+
 ---
 
 ## 📅 XML TV Guide (EPG)
