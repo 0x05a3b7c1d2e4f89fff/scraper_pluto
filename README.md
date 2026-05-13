@@ -24,7 +24,7 @@ Automatically updated M3U playlists for Pluto TV with forced HD resolution and c
 | **🇸🇪 Sweden** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_se.m3u` |
 | **🇩🇰 Denmark** | `https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_dk.m3u` |
 
-### 🆕 New Regions Added
+### 🆕 New Regions Added 5/12/26
 
 | Region / Type | Direct Raw M3U Link (Copy & Paste) |
 | :--- | :--- |
