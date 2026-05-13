@@ -36,6 +36,13 @@ class PlutoProvider(BaseProvider):
             "it": "131.114.130.239", "br": "177.192.255.38", "mx": "200.68.128.83", 
             "ar": "168.226.232.228", "cl": "181.200.138.240", "no": "78.26.38.103", 
             "se": "185.6.8.2", "dk": "192.36.27.7",
+            # Additional regions
+            "at": "2.18.68.0", "au": "144.48.37.140", "bo": "186.27.64.0",
+            "ch": "5.144.31.245", "co": "181.204.4.74", "cr": "138.122.24.0",
+            "do": "152.166.0.0", "ec": "181.196.0.0", "fi": "85.194.236.0",
+            "gt": "190.115.2.25", "hn": "181.115.0.0", "ni": "186.76.0.0",
+            "pa": "168.77.0.0", "pe": "190.42.0.0", "py": "177.250.0.0",
+            "sv": "190.53.128.0", "uy": "179.24.0.0", "ve": "103.83.193.0",
         }
         
         self.headers = {
@@ -142,6 +149,25 @@ def merge_master_playlist():
         "no": {"priority": 12, "label": "Norway"},
         "se": {"priority": 13, "label": "Sweden"},
         "dk": {"priority": 14, "label": "Denmark"},
+        # Additional regions
+        "at": {"priority": 15, "label": "Austria"},
+        "au": {"priority": 16, "label": "Australia"},
+        "bo": {"priority": 17, "label": "Bolivia"},
+        "ch": {"priority": 18, "label": "Switzerland"},
+        "co": {"priority": 19, "label": "Colombia"},
+        "cr": {"priority": 20, "label": "Costa Rica"},
+        "do": {"priority": 21, "label": "Dominican Republic"},
+        "ec": {"priority": 22, "label": "Ecuador"},
+        "fi": {"priority": 23, "label": "Finland"},
+        "gt": {"priority": 24, "label": "Guatemala"},
+        "hn": {"priority": 25, "label": "Honduras"},
+        "ni": {"priority": 26, "label": "Nicaragua"},
+        "pa": {"priority": 27, "label": "Panama"},
+        "pe": {"priority": 28, "label": "Peru"},
+        "py": {"priority": 29, "label": "Paraguay"},
+        "sv": {"priority": 30, "label": "El Salvador"},
+        "uy": {"priority": 31, "label": "Uruguay"},
+        "ve": {"priority": 32, "label": "Venezuela"},
     }
 
     files = [f for f in glob.glob("pluto_*.m3u") if "all.m3u" not in f and "master.m3u" not in f]
